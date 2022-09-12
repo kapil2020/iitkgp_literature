@@ -3,7 +3,7 @@ Research Papers -- IIT KGP
 
 ^a jabref database for all literature management
 
-^look on https://github.com/kapil2020/iitkgp_literature/wiki for jabrefInstructions
+^look on https://github.com/kapil2020/iitkgp_literature/wiki for jabref Instructions
 
 ^use 'iitrkgp.bib' bib file for all other references
 
